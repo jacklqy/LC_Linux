@@ -11,6 +11,8 @@ Linux常用命令操作：https://www.linuxcool.com/
 
 关于各个组件需要的本地用户：比如mysql账户、hadoop账户等...
 
-跨服务器文件拷贝：
+跨服务器文件拷贝scp：
 
 软连接创建：
+
+集群时间同步NTP服务：
